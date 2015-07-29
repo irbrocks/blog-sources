@@ -1,0 +1,1 @@
+Article: [Comparison of arrays in Ruby](http://irb.rocks/comparison-arrays-ruby/)
