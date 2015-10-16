@@ -1,0 +1,1 @@
+Article: [Determine if model is just created](http://irb.rocks/determine-if-a-model-is-just-created/)
