@@ -6,5 +6,6 @@ This repository contains all code of the articles. You can clone it to use in yo
 
 # Index
 
-* 24 July 2015 - [Colorize Rails unit tests](https://github.com/irbrocks/blog-sources/tree/master/colorize-rails-unit-tests)
+* 15 January 2016 - [Reduce nil verifications in nested hashes](https://github.com/irbrocks/blog-sources/tree/master/reduce-nil-verifications-nested-hashes)
 * 16 October 2015 - [Determine if model is just created](https://github.com/irbrocks/blog-sources/tree/master/determine-if-a-model-is-just-created)
+* 24 July 2015 - [Colorize Rails unit tests](https://github.com/irbrocks/blog-sources/tree/master/colorize-rails-unit-tests)
